@@ -1,14 +1,11 @@
 variable "location" {
   type = string
-  default = "westeurope"
+  default = "brazilsouth"
 }
 
 variable "tags" {
   type = map
   default = {
-      "Ambiente" = "Desenvolvimento"
-      "Integracao" = "Processo Devops"
-      "Compania" = "Aula Devops"
-      "Area" = "Marketing"
+      "Area" = "Infraestrutura"
     }
 }

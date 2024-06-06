@@ -1,0 +1,3 @@
+codigoTerraform/.terraform/
+codigoTerraform/terraform.tfstate
+codigoTerraform/terraform.tfstate.backup
