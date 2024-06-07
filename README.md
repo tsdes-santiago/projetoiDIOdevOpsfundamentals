@@ -105,7 +105,7 @@ Preenchi o formulário para a liberação do parallel job gratuito.
 
 <img src="release.png"/>
 
-- O Depoy foi bem sucedido. 
+- O Deploy foi bem sucedido. 
 
 <img src="release_sucesso.png"/>
 
